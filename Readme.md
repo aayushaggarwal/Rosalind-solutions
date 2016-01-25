@@ -1,0 +1,1 @@
+This repository containg solutions to problems on Rosalind Platform. Rosalind is a platform for learning bioinformatics and programming through problem solving. You find more about Rosalind at http://rosalind.info
